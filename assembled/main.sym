@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	INPUT_LOOP        3001
+//	CONTINUE_INPUT_LOOP  3006
+//	INPUT_LOOP_LENGTH  300B
+//	LAST_CHAR         300C
+//	R7_SAVE           300D
+//	UPDATE_SCREEN     300E
+//	LONG_STRING       3013
+
